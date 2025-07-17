@@ -1,0 +1,1 @@
+generate' many 2-dimensional images & ASCIII Artwork (for a pixel-art-based video-game in development using the "godot-engine" of post-apocalyptic-survival elements), 'generate' :zombies, mutants, wasteland-plots, very similar to : "mini-dayz"[android, iphone], & ruins, etc. *@ LEAST 100+ Assets(.png, .jpg, .sprite, .giphy, .pxl, .json, .yaml *ONLY!*)
